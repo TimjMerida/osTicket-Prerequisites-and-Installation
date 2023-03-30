@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. osTickicket allows users to create and manage associates access to tickets as well as allow the creation of tickets by those employees or users / customers. This is part 1 of 3 that will go over installing, setting up and using osTicket and its commonly used features.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. osTickicket allows users to create and manage associates access to tickets as well as allow the creation of tickets by those employees or users / customers. This is part 1 of 3 that will go over installing, setting up and using osTicket and its commonly used features. We will be installing osTickoet on Microsoft Azure a cloud service where we can creat the virtual machines needed for this lab.<br />
 
 
 
@@ -18,13 +18,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
 <h2>Installation Steps</h2>
 
