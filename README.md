@@ -17,7 +17,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+<h2>Outline of steps in part one</h2>
+In part one we will 
 
+-Set up our virtual machines in Azure 
+-Enable IIS (Internet Information Services)
+-Install osTicket on the VM
+-Clean up of unnecessary files
+After this you can move on to part 2 https://github.com/TimjMerida/osTicket-pt2-Post-Installation-Configuration
 
 <h2>Installation Steps</h2>
 
@@ -25,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The first thing we need to do 
 </p>
 <br />
 
