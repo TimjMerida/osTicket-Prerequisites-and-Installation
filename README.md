@@ -77,10 +77,10 @@ Scroll down and select the size, I reccomend at least 2 vcpus or the VM will be 
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/128980344/229003230-b4a19e3e-d935-4272-8d3c-d0afbb04cb8c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Scroll back to the top and select networking. 
+Scroll back to the top and select networking. We will have azure create a virtual network for us. The setting should be simmilair to mine. Afterwards select review and create at the bottom and allow it to validate. Once validated we can create the VM! It may take some time to create once created it should say your deployemnt is complete. You can go back to the azure homescreen or click on go to rescource and you are ready for the next <a href="https://github.com/TimjMerida/osTicket-pt2-Post-Installation-Configuration">part</a>!  
 </p>
 <br />
 
