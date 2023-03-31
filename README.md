@@ -11,8 +11,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
@@ -22,10 +20,6 @@ In part one we will
 
 - Create a rescource group
 - Set up our virtual machines in the Azure rescource group  
-- RDP (remote desktop protocol) into the VM
-- Enable IIS (Internet Information Services)
-- Install osTicket on the VM
-- Clean up of unnecessary files (After this you can move on to <a href="https://github.com/TimjMerida/osTicket-pt2-Post-Installation-Configuration">part 2</a>)
 
 <h2>Virtual Machine Setup</h2>
 
