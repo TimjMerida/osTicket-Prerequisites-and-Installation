@@ -27,7 +27,7 @@ In part one we will
 - Install osTicket on the VM
 - Clean up of unnecessary files (After this you can move on to <a href="https://github.com/TimjMerida/osTicket-pt2-Post-Installation-Configuration">part 2</a>)
 
-<h2>Installation Steps</h2>
+<h2>Virtual Machine Setup</h2>
 
 <p>
 <img src="https://user-images.githubusercontent.com/128980344/228999887-c8db8e47-5c22-4b6e-bf59-6fdbc04e66cd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
