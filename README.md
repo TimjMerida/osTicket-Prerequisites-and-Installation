@@ -84,7 +84,7 @@ Scroll back to the top and select networking. We will have azure create a virtua
 <img src="https://user-images.githubusercontent.com/128980344/229168973-7bd8f8eb-f3aa-40dc-8971-538e445ff549.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Before we can start downloading osTicket we need to RDP (Remote Desktop Protocol) into the VM. Start by going to VM's in Azure and going to virtual machines. Select the VM you are using for this lab (VM-1-osTicket-Lab if you are following along). We need the public ip adress on the right.
+Before we can start downloading osTicket we need to connect to the VM via RDP (Remote Desktop Protocol). Start by going to VM's in Azure and going to virtual machines. Select the VM you are using for this lab (VM-1-osTicket-Lab if you are following along). We need the public ip adress on the right.
 </p>
 <br />
 
@@ -112,7 +112,7 @@ We have to sign in with the username and password we created in part <a href="ht
 </p>
 
 <p>
-After conecting you will get to choose privacy settings. You can turn all these off for this lab.
+After conecting you will get to choose privacy settings. You can turn all these off for this lab. Once you are met with the windows desktop you are ready for the next <a href="https://github.com/TimjMerida/osTicket-pt2-Post-Installation-Configuration">part</a>.  
 </p>
 <br />
 
