@@ -11,6 +11,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
+- RDP (Remote Desktop Protocol)
 
 <h2>Operating Systems Used </h2>
 
@@ -19,7 +20,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 In part one we will 
 
 - Create a rescource group
-- Set up our virtual machines in the Azure rescource group  
+- Set up our virtual machine in the Azure rescource group 
+- Connect to the VM with RDP
 
 <h2>Virtual Machine Setup</h2>
 
@@ -78,20 +80,41 @@ Scroll back to the top and select networking. We will have azure create a virtua
 </p>
 <br />
 
+<p>
+<img src="https://user-images.githubusercontent.com/128980344/229168973-7bd8f8eb-f3aa-40dc-8971-538e445ff549.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Before we can start downloading osTicket we need to RDP (Remote Desktop Protocol) into the VM. Start by going to VM's in Azure and going to virtual machines. Select the VM you are using for this lab (VM-1-osTicket-Lab if you are following along). We need the public ip adress on the right.
+</p>
+<br />
 
+<p>
+<img src="https://user-images.githubusercontent.com/128980344/229169860-e059a965-30c5-4c34-a48e-1abdfe6d1f4b.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+On your windows desktop click the windows icon and search RDP. Open remote desktop and type in your VM's public IP adress, then click connect.  
+</p>
+<br />
 
+<p>
+<img src="https://user-images.githubusercontent.com/128980344/229403077-096a5d2d-8261-45b8-b837-2fbe38f25d44.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://user-images.githubusercontent.com/128980344/229403360-e7233172-a419-46e3-8378-d66fb7bc2883.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+We have to sign in with the username and password we created in part <a href="https://github.com/TimjMerida/osTicket-pt1-VM-setup">one</a>. To do this click more choices and enter the credentials you created. The username and password I set were oslabuser and Password12321. After clicking ok there will be a popup. Click yes to connect to the VM.
+</p>
+<br />
 
+<p>
+<img src="https://user-images.githubusercontent.com/128980344/229172217-f634a6d5-2066-4b17-a564-90ace922c995.png"  height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
 
-
-
-
-
-
-
-
-
-
-
+<p>
+After conecting you will get to choose privacy settings. You can turn all these off for this lab.
+</p>
+<br />
 
 
 
